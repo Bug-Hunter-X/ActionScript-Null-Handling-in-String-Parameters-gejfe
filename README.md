@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon issue in ActionScript 3 related to null handling when parameters of type String are involved.  The 'bug.as' file showcases the problem where passing 'null' to a function expecting a String causes an error instead of printing 'null'.  'bugSolution.as' provides the solution by explicitly checking for null values before use.
